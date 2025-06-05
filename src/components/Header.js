@@ -123,7 +123,7 @@ const Header = () => {
       <Nav>
         <Logo to="/" className="mono">
           <FaTerminal />
-          <TerminalPrefix>~/</TerminalPrefix>rafael
+          <TerminalPrefix>~/</TerminalPrefix>Rafael
         </Logo>
         <NavLinks $isOpen={isOpen}>
           {navItems.map((item) => (

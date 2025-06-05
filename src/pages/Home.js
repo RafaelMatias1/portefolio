@@ -228,7 +228,7 @@ const Home = () => {
               </StatusIndicator>
             </Greeting>
             
-            <Name>Rafael Schmidt</Name>
+            <Name>Rafael Matias Schmidt</Name>
             <Role>$ echo "Full Stack Developer"</Role>
             
             <Description>
