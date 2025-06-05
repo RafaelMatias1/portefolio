@@ -175,8 +175,8 @@ const Period = styled.p`
 
 const About = () => {
   const personalInfo = [
-    { label: 'Nome', value: 'Rafael M. Schmidt' },
-    { label: 'Idade', value: '19 anos' },
+    { label: 'Nome', value: 'Rafael Matias Schmidt' },
+    { label: 'Idade', value: '20 anos' },
     { label: 'Local', value: 'Florianópolis, SC' },
     { label: 'Status', value: 'Disponível para oportunidades' }
   ];
